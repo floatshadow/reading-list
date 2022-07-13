@@ -2,6 +2,16 @@
 
 A list of courses, projects and papers.
 
+## Theoretical Computer Science
+
+### Computation Complexity
+
+- Cook-Levin Theorem [The Complexity of Theorem-Proving Procedures](https://www.inf.unibz.it/~calvanese/teaching/11-12-tc/material/cook-1971-NP-completeness-of-SAT.pdf) by Stephen A. Cook., STOC 1971
+- One of Karp's 21 NP-complete problems [Reducibility Among Combinatorial Problems](https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf) by Richard M. Karp., 1972
+- 3-Color is NP-complete [Coverings and colorings of hypergraphs](https://web.cs.elte.hu/~lovasz/scans/covercolor.pdf) by Lovász., 1973
+- AKS primality test [PRIMES is in P](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/primality_journal.pdf) by Manindra Agrawal et al., Annals of Mathematics 2004
+- Relation between class PP and gap function [Gap-definable counting classes](https://www.sciencedirect.com/science/article/pii/S0022000005800248) by Stephen A.Fenner et al., JCSS 1994
+
 ## Network Models
 
 ### Convolutional Network
