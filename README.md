@@ -13,6 +13,12 @@ A list of courses, projects and papers.
 - Relation between class PP and gap function [Gap-definable counting classes](https://www.sciencedirect.com/science/article/pii/S0022000005800248) by Stephen A.Fenner et al., JCSS 1994
 - Rice's theorem [Classes of recursively enumerable sets and their decision problems](https://www.ams.org/journals/tran/1953-074-02/S0002-9947-1953-0053041-6/home.html) by Rice, H. G., TAMS 1953
 
+## Compiler
+
+### Instruction Selection
+
+- LLVM DAG Selection [Generalized Instruction Selection using SSA-Graphs](https://llvm.org/pubs/2008-06-LCTES-ISelUsingSSAGraphs.pdf) by Dietmar Ebner et al., 2008
+
 ## Network Models
 
 ### Convolutional Network
