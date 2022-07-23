@@ -19,6 +19,14 @@ A list of courses, projects and papers.
 
 - LLVM DAG Selection [Generalized Instruction Selection using SSA-Graphs](https://llvm.org/pubs/2008-06-LCTES-ISelUsingSSAGraphs.pdf) by Dietmar Ebner et al., 2008
 
+### Other Pratical Materials
+
+- Microsoft [Overview of ARM32 ABI Conventions](https://docs.microsoft.com/en-us/cpp/build/overview-of-arm-abi-conventions?view=msvc-170)
+- ARM-software doc [Procedure Call Standard for the Arm® Architecture](https://github.com/ARM-software/abi-aa/blob/60a8eb8c55e999d74dac5e368fc9d7e36e38dda4/aapcs32/aapcs32.rst)
+- ARM-software doc [Application Binary Interface for the Arm® Architecture – The Base Standard](https://github.com/ARM-software/abi-aa/blob/60a8eb8c55e999d74dac5e368fc9d7e36e38dda4/bsabi32/bsabi32.rst)
+- Floating Point Register Compiler Docs [VMOV #imm](https://developer.arm.com/documentation/ka001136/latest), [VMOV between Regs](https://developer.arm.com/documentation/dui0473/m/vfp-instructions/vmov--between-one-arm-register-and-single-precision-vfp-)
+- Assembly Learning Manuals [Linux Kernel Module Cheat](https://cirosantilli.com/linux-kernel-module-cheat/)  **Warning: Political Bias included**
+
 ## Network Models
 
 ### Convolutional Network
