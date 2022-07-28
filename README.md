@@ -15,6 +15,11 @@ A list of courses, projects and papers.
 
 ## Compiler
 
+### LLVM
+
+- [2019 EuroLLVM Developers’ Meeting: V. Bridgers & F. Piovezan “LLVM IR Tutorial - Phis, GEPs ...](https://www.youtube.com/watch?v=m8G_S5LwlTo&t=249s)
+- mem2reg [调试LLVM如何生成SSA](https://blog.csdn.net/dashuniuniu/article/details/103389157#alloca_593)
+
 ### Instruction Selection
 
 - LLVM DAG Selection [Generalized Instruction Selection using SSA-Graphs](https://llvm.org/pubs/2008-06-LCTES-ISelUsingSSAGraphs.pdf) by Dietmar Ebner et al., 2008
