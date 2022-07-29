@@ -24,6 +24,10 @@ A list of courses, projects and papers.
 
 - LLVM DAG Selection [Generalized Instruction Selection using SSA-Graphs](https://llvm.org/pubs/2008-06-LCTES-ISelUsingSSAGraphs.pdf) by Dietmar Ebner et al., 2008
 
+### Blogs
+
+- A compiler framework written in Rust [Cranelift Wasmtime Backend](https://cfallin.org/blog/)
+
 ### Other Pratical Materials
 
 - Microsoft [Overview of ARM32 ABI Conventions](https://docs.microsoft.com/en-us/cpp/build/overview-of-arm-abi-conventions?view=msvc-170)
