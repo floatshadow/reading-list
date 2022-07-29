@@ -24,11 +24,17 @@ A list of courses, projects and papers.
 
 - LLVM DAG Selection [Generalized Instruction Selection using SSA-Graphs](https://llvm.org/pubs/2008-06-LCTES-ISelUsingSSAGraphs.pdf) by Dietmar Ebner et al., 2008
 
+### Register Allocation
+
+- Greedy Allocator [Greedy Register Allocation in LLVM 3.0](https://blog.llvm.org/2011/09/greedy-register-allocation-in-llvm-30.html)
+- Register Hint [Optimized Interval Splitting
+in a Linear Scan Register Allocator](https://www.usenix.org/legacy/events/vee05/full_papers/p132-wimmer.pdf) by Christian Wimmer et al. 2005
+
 ### Blogs
 
 - A compiler framework written in Rust [Cranelift Wasmtime Backend](https://cfallin.org/blog/)
 
-### Other Pratical Materials
+### Other Practical Materials
 
 - Microsoft [Overview of ARM32 ABI Conventions](https://docs.microsoft.com/en-us/cpp/build/overview-of-arm-abi-conventions?view=msvc-170)
 - ARM-software doc [Procedure Call Standard for the Arm® Architecture](https://github.com/ARM-software/abi-aa/blob/60a8eb8c55e999d74dac5e368fc9d7e36e38dda4/aapcs32/aapcs32.rst)
